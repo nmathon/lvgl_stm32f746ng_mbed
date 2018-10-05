@@ -1,0 +1,285 @@
+[
+    {
+        "module": "BSP_DISCO_F746NG/Drivers", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 323, 
+            ".data": 41, 
+            ".bss-delta": 0, 
+            ".text": 2370
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data-delta": -8, 
+            ".text-delta": -51, 
+            ".bss": 27, 
+            ".data": 7, 
+            ".bss-delta": -6, 
+            ".text": 162
+        }
+    }, 
+    {
+        "module": "[lib]/c.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 56, 
+            ".data": 2204, 
+            ".bss-delta": 0, 
+            ".text": 25790
+        }
+    }, 
+    {
+        "module": "[lib]/gcc.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3716
+        }
+    }, 
+    {
+        "module": "[lib]/m.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 68
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 16, 
+            ".bss-delta": 0, 
+            ".text": 236
+        }
+    }, 
+    {
+        "module": "hal_stm_lvgl/tft", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 484, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1548
+        }
+    }, 
+    {
+        "module": "hal_stm_lvgl/touchpad", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 48, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 112
+        }
+    }, 
+    {
+        "module": "lv_examples/lv_apps", 
+        "size": {
+            ".data-delta": -20, 
+            ".text-delta": -226975, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": -792, 
+            ".text": 0
+        }
+    }, 
+    {
+        "module": "lvgl/lv_core", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -1880, 
+            ".bss": 262266, 
+            ".data": 13, 
+            ".bss-delta": 0, 
+            ".text": 6537
+        }
+    }, 
+    {
+        "module": "lvgl/lv_draw", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -6539, 
+            ".bss": 960, 
+            ".data": 2, 
+            ".bss-delta": -38, 
+            ".text": 9472
+        }
+    }, 
+    {
+        "module": "lvgl/lv_fonts", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 80, 
+            ".bss-delta": 0, 
+            ".text": 18072
+        }
+    }, 
+    {
+        "module": "lvgl/lv_hal", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 17, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 388
+        }
+    }, 
+    {
+        "module": "lvgl/lv_misc", 
+        "size": {
+            ".data-delta": -28, 
+            ".text-delta": -2176, 
+            ".bss": 32845, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3264
+        }
+    }, 
+    {
+        "module": "lvgl/lv_objx", 
+        "size": {
+            ".data-delta": -560, 
+            ".text-delta": -29491, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": -116, 
+            ".text": 0
+        }
+    }, 
+    {
+        "module": "lvgl/lv_themes", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 4, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 12
+        }
+    }, 
+    {
+        "module": "mbed-os/components", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "mbed-os/drivers", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 100, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 251
+        }
+    }, 
+    {
+        "module": "mbed-os/events", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1572, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1623
+        }
+    }, 
+    {
+        "module": "mbed-os/features", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 3, 
+            ".bss": 12688, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 2079
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 68, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 1809
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 197, 
+            ".data": 260, 
+            ".bss-delta": 0, 
+            ".text": 3010
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 6053, 
+            ".data": 168, 
+            ".bss-delta": 0, 
+            ".text": 12420
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1060, 
+            ".data": 5, 
+            ".bss-delta": 0, 
+            ".text": 17041
+        }
+    }, 
+    {
+        "module": "src/main.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -4, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 26
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 321600, 
+            "total_flash_delta": -267729, 
+            "static_ram_delta": -1568, 
+            "total_flash": 112842
+        }
+    }
+]

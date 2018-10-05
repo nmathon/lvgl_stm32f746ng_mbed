@@ -1,0 +1,3 @@
+ROOT=.
+TARGET=disco_f746ng
+TOOLCHAIN=GCC_ARM
